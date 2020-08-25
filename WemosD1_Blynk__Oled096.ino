@@ -10,12 +10,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "d057580798ec4c96acb1b8b747c159d8";
+char auth[] = "d057580798ec4c96acbXXXXXXXXXXXXX";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "FFULLHE";
-char pass[] = "mg833857";
+char ssid[] = "YOURWIFI";
+char pass[] = "PASWORD";
 
 #define DHTPIN 2          // Conectar a D4 del ESP8266 ARDUINO
 
