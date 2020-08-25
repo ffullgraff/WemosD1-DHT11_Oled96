@@ -1,4 +1,5 @@
-
+// SDA  Pin D2  Wemos D1 Pro
+// SCL  Pin D1  Wemos D1 pro
 #include "DHT.h"
  #include <Wire.h>
 #include "SSD1306Ascii.h"
